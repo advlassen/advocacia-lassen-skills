@@ -2,7 +2,7 @@
 
 # Skills da Advocacia Lassen
 
-Acervo privado com 25 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.3.1, preparada para Claude Code, com as instruções e os três logotipos existentes.
+Acervo privado com 26 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.4.0, preparada para Claude Code, com as instruções e os três logotipos existentes.
 
 O pacote orienta o trabalho e não fornece acesso a tribunais, CRM, áudio, Word ou serviços externos. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
 
@@ -63,7 +63,7 @@ Para produzir documentos com fidelidade visual, disponibilize o modelo apropriad
 
 ## Conferência e limites
 
-A preparação conferiu JSON, frontmatter, nomes das 25 skills, referências internas, presença dos logotipos e remoção dos identificadores conhecidos. Não equivale a auditoria jurídica de todos os temas nem à execução das skills no Claude Code. Nenhum áudio foi processado e nenhum motor de transcrição foi instalado.
+A preparação conferiu JSON, frontmatter, nomes das 26 skills, referências internas, presença dos logotipos e remoção dos identificadores conhecidos. Não equivale a auditoria jurídica de todos os temas nem à execução das skills no Claude Code. Nenhum áudio foi processado e nenhum motor de transcrição foi instalado.
 
 Para conferir o pacote com seu Claude Code, sem instalar o plugin:
 
@@ -84,3 +84,7 @@ O repositório é destinado ao uso privado e às pessoas autorizadas pelo propri
 A logo preta completa usa fundo branco puro #FFFFFF, opaco. A limpeza foi determinística, sem redesenhar: desenho, tipografia e vizinhança de antialiasing preservados. As variantes branca e dourada mantêm transparência para os usos adequados. O README utiliza a variante preta completa.
 
 O [checklist de fontes brasileiras](plugins/advocacia-lassen/references/checklist-fontes-brasileiras.md) reforça a verificação de legislação e jurisprudência por tarefa. Não é um catálogo de precedentes, monitoramento automático ou garantia de atualização permanente.
+
+## Atualização 1.4.0
+
+A skill lassen-atualizacao-juridica revalida, por tarefa, leis e precedentes de uma pesquisa anterior ou inicial, com quadro mudou/permanece/não confirmado, impacto e fontes. Ela não monitora sozinha, agenda pesquisas nem declara atualização sem acesso atual suficiente.

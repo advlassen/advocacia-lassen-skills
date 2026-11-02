@@ -69,3 +69,7 @@ Usar lassen-revisor-juridico para a revisão final quando apropriado. Não chama
 Usar lassen-documentos e uma cópia do modelo real de petição fornecido em ambiente autorizado, preservando identidade visual e substituindo somente o conteúdo necessário. Não transportar fatos do exemplar.
 
 Entregar Word editável por padrão, PDF quando solicitado, com verificação de conteúdo e renderização. Se a criação do arquivo estiver indisponível, informar o bloqueio e não declarar a entrega concluída. Preparar a peça não autoriza assinatura, protocolo, envio ou alteração de sistema externo.
+
+## Revalidação e atualização da pesquisa
+
+Para conferir atualidade de autoridades ou comparar uma pesquisa anterior, use [Atualização jurídica](../lassen-atualizacao-juridica/SKILL.md). O módulo aplica o checklist de fontes à tarefa e devolve mudanças, permanências, não confirmações e impactos; não monitora sozinho nem altera tese, pedido ou prazo automaticamente. Em trabalho acadêmico, aplique à parcela que afirmar direito ou jurisprudência brasileiros.

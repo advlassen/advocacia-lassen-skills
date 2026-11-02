@@ -42,3 +42,7 @@ Ao produzir ou revisar documentos, entregue arquivo real em Word (.docx) ou PDF 
 ## Verificação de fontes brasileiras por tarefa
 
 Use o [checklist de fontes jurídicas brasileiras](../../references/checklist-fontes-brasileiras.md) quando a tarefa depender de lei ou jurisprudência. Confirme existência, conteúdo, aplicação temporal e situação relevante em fonte oficial; mantenha data de consulta e limites. Sem acesso suficiente, marque a afirmação específica como não verificada e não a apresente como autoridade confirmada. A pesquisa é feita por tarefa, sem promessa de atualização contínua.
+
+## Revalidação e atualização da pesquisa
+
+Para conferir atualidade de autoridades ou comparar uma pesquisa anterior, use [Atualização jurídica](../lassen-atualizacao-juridica/SKILL.md). O módulo aplica o checklist de fontes à tarefa e devolve mudanças, permanências, não confirmações e impactos; não monitora sozinho nem altera tese, pedido ou prazo automaticamente. Em trabalho acadêmico, aplique à parcela que afirmar direito ou jurisprudência brasileiros.

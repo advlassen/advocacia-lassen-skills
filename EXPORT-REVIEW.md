@@ -1,6 +1,6 @@
 # Revisão da exportação
 
-A exportação inclui 25 skills e suas referências, três logotipos existentes e os manifests do Claude Code e do marketplace. Não contém configurações de conta do plugin ChatGPT.
+A exportação inclui 26 skills e suas referências, três logotipos existentes e os manifests do Claude Code e do marketplace. Não contém configurações de conta do plugin ChatGPT.
 
 Foram inspecionados os sete DOCX do acervo privado por seus componentes OOXML: corpo, cabeçalhos/rodapés, campos, propriedades, relações, comentários e alterações controladas. Não foram localizados comentários ou alterações controladas nesses arquivos; todos possuem dados profissionais, contatos ou metadados que justificam não distribuí-los nesta exportação. A imagem incorporada é o mesmo logotipo já fornecido. O exemplar de petição também contém narrativa demonstrativa; não foi tratado como modelo neutro público.
 

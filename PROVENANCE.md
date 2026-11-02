@@ -1,6 +1,6 @@
 # Proveniência da exportação
 
-Base: versão privada 1.3.1 do plugin Advocacia Lassen. Incluídas as 25 skills e referências de método, com adaptações específicas para remover dados profissionais e referências a modelos não distribuídos. A versão privada não foi modificada por essa adaptação.
+Base: versão privada 1.4.0 do plugin Advocacia Lassen. Incluídas as 26 skills e referências de método, com adaptações específicas para remover dados profissionais e referências a modelos não distribuídos. A versão privada não foi modificada por essa adaptação.
 
 Módulos novos de pesquisa acadêmica, redação de peças, cálculos e análise de depoimentos foram elaborados para o fluxo solicitado pelo responsável. O material anterior provém do acervo fornecido; autoria e licença de redistribuição integral ainda dependem de confirmação documental. Não há alegação de auditoria de direitos conclusiva.
 
