@@ -55,3 +55,7 @@ Fontes consultadas em 19/10/2026; revalidar nas tarefas que dependam de atualida
 - [LGPD — texto oficial](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm): tratamento de dados conforme finalidade e contexto.
 - [Recomendações do CFOAB sobre IA](https://www.oab.org.br/noticia/62711/confira-versao-final-da-recomendacao-do-cfoab-sobre-o-uso-de-ia-na-pratica-juridica): orientação profissional e supervisão; consultar a versão consolidada.
 - [Resolução CNJ 615/2025](https://atos.cnj.jus.br/atos/detalhar/6001): governança de IA no Judiciário; verificar texto compilado e alterações, inclusive a Resolução 674/2026.
+
+## Direito brasileiro e autoridades verificáveis
+
+Adote direito brasileiro como padrão, salvo pedido ou contexto explicitamente diverso. Aplique o [checklist de fontes brasileiras](checklist-fontes-brasileiras.md) por tarefa às afirmações dependentes de legislação ou jurisprudência: fonte oficial, teor, redação/aplicação temporal, situação relevante, aderência e data da consulta. Não use autoridade inventada, referência apenas plausível ou atribuição genérica para encobrir ausência de confirmação. Uma consulta passada não garante atualidade futura. Peça sem hyperlinks conserva identificação formal e memória de fontes separada.

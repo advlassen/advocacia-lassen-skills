@@ -2,7 +2,7 @@
 
 # Skills da Advocacia Lassen
 
-Acervo privado com 25 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.3.0, preparada para Claude Code, com as instruções e os três logotipos existentes.
+Acervo privado com 25 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.3.1, preparada para Claude Code, com as instruções e os três logotipos existentes.
 
 O pacote orienta o trabalho e não fornece acesso a tribunais, CRM, áudio, Word ou serviços externos. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
 
@@ -78,3 +78,9 @@ Esses comandos são instruções para o usuário; não foram executados nesta pr
 
 O repositório é destinado ao uso privado e às pessoas autorizadas pelo proprietário. Não há concessão de licença open-source, autorização geral de redistribuição nem licença de uso da marca. Consulte [direitos e proveniência](NOTICE.md) e [origem da exportação](PROVENANCE.md). Adicionar colaboradores, tornar público ou escolher licença exige decisão específica do responsável.
 
+
+## Atualização 1.3.1
+
+A logo preta completa usa fundo branco puro #FFFFFF, opaco. A limpeza foi determinística, sem redesenhar: desenho, tipografia e vizinhança de antialiasing preservados. As variantes branca e dourada mantêm transparência para os usos adequados. O README utiliza a variante preta completa.
+
+O [checklist de fontes brasileiras](plugins/advocacia-lassen/references/checklist-fontes-brasileiras.md) reforça a verificação de legislação e jurisprudência por tarefa. Não é um catálogo de precedentes, monitoramento automático ou garantia de atualização permanente.

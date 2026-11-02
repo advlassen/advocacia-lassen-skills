@@ -47,3 +47,7 @@ Leia apenas as referências relevantes à tarefa atual. Quando houver conflito, 
 ## Formato obrigatório dos documentos
 
 Ao produzir ou revisar documentos, entregue arquivo real em Word (.docx) ou PDF (.pdf), com link ou anexo para download. Sem indicação, use .docx; se solicitado, PDF ou ambos. O resumo no chat não substitui o arquivo. Aplique a seção “Entrega de documentos em Word ou PDF” das [regras comuns](../../references/regras-comuns.md), inclusive verificação do arquivo e tratamento de limitações. Pedido explícito posterior por outro formato prevalece.
+
+## Verificação de fontes brasileiras por tarefa
+
+Use o [checklist de fontes jurídicas brasileiras](../../references/checklist-fontes-brasileiras.md) quando a tarefa depender de lei ou jurisprudência. Confirme existência, conteúdo, aplicação temporal e situação relevante em fonte oficial; mantenha data de consulta e limites. Sem acesso suficiente, marque a afirmação específica como não verificada e não a apresente como autoridade confirmada. A pesquisa é feita por tarefa, sem promessa de atualização contínua.

@@ -57,3 +57,7 @@ Entregar o produto pedido, sem anexar um relatório metodológico excessivo a um
 Para projeto: problema, justificativa, objetivos, referencial inicial, método, cronograma e referências verificadas. Para artigo: seguir a estrutura do periódico e distinguir resultados próprios de síntese bibliográfica.
 
 Documentos seguem lassen-documentos e as regras comuns de Word/PDF. O modelo de petição não deve ser imposto a artigo ou dissertação; usar o modelo acadêmico pertinente. Pendências críticas devem ficar em lista separada, sem disfarçar texto incompleto como pronto para submissão. Não submeter nem contatar autores, instituições ou periódicos sem autorização.
+
+## Verificação de fontes brasileiras por tarefa
+
+Use o [checklist de fontes jurídicas brasileiras](../../references/checklist-fontes-brasileiras.md) quando a tarefa depender de lei ou jurisprudência. Confirme existência, conteúdo, aplicação temporal e situação relevante em fonte oficial; mantenha data de consulta e limites. Sem acesso suficiente, marque a afirmação específica como não verificada e não a apresente como autoridade confirmada. A pesquisa é feita por tarefa, sem promessa de atualização contínua.
