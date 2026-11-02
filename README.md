@@ -49,7 +49,7 @@ As etapas de catálogo e instalação são descritas na [documentação oficial 
 
 - `.claude-plugin/marketplace.json`: catálogo com um plugin.
 - `plugins/advocacia-lassen/.claude-plugin/plugin.json`: identidade e versão do plugin.
-- `plugins/advocacia-lassen/skills/`: 25 diretórios com `SKILL.md` e referências próprias.
+- `plugins/advocacia-lassen/skills/`: 26 diretórios com `SKILL.md` e referências próprias.
 - `plugins/advocacia-lassen/references/`: regras comuns, fluxo auditável e guia de modelos locais.
 - `plugins/advocacia-lassen/assets/`: três logotipos sem redesenho.
 
@@ -88,3 +88,6 @@ O [checklist de fontes brasileiras](plugins/advocacia-lassen/references/checklis
 ## Atualização 1.4.0
 
 A skill lassen-atualizacao-juridica revalida, por tarefa, leis e precedentes de uma pesquisa anterior ou inicial, com quadro mudou/permanece/não confirmado, impacto e fontes. Ela não monitora sozinha, agenda pesquisas nem declara atualização sem acesso atual suficiente.
+
+## 1.4.2 — correção delimitada
+Removida a inferência de mentira por excesso de justificativas na referência de audiências; usar conteúdo, contexto, percepção relatada e prova. As 26 skills e os assets neutros foram preservados. Esta exportação parte da 1.4.0 e recebe esta correção; não é cópia integral do plugin ChatGPT 1.4.2. A entrega DOCX + PDF padrão já configurada no Projeto Claude continua sendo uma regra expressa das instruções daquele Projeto, que prevalece sobre instruções antigas de formato desta exportação. Não houve sincronização automática de todas as alterações da versão ChatGPT 1.4.1. Permanecem as omissões de DOCX/HTML documentadas em EXPORT-REVIEW.md.

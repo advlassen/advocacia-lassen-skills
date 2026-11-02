@@ -1,4 +1,4 @@
-# Contradita e análise comportamental
+# Contradita e esclarecimento do depoimento
 
 ## Contradita de testemunhas
 Antes de a testemunha depor, avalie se cabe contraditá-la. Analise: impedimentos, suspeição,
@@ -13,12 +13,13 @@ compromisso e com valor probatório reduzido).
 A contradita se faz no momento próprio (antes do compromisso). Fundamento sem base nos autos não se
 levanta; fato de vínculo que você não confirmou é `[CONFERIR]`.
 
-## Análise comportamental
-Durante o depoimento, observe os sinais que abrem pontos de exploração: respostas evasivas, contradições
-(internas ou com os autos), mudanças de versão ao longo do relato e excesso de justificativas (quem
-explica demais costuma esconder algo). Cada sinal vira um ponto a explorar com pergunta dirigida ("o
-senhor havia dito X; agora diz Y — qual é a versão correta?").
+## Esclarecimento baseado em conteúdo, contexto e prova
+Durante o depoimento, identifique proposições concretas que precisem de esclarecimento: resposta que não aborda a pergunta, diferença entre versões, incerteza sobre pessoa, tempo ou local, condições de percepção relatadas e incompatibilidade com prova identificada. Registre pergunta, resposta, contexto e localizadores; considere esclarecimentos e retificações posteriores antes de concluir.
 
-Cuidado: leitura de comportamento é ferramenta de exploração da prova, não adivinhação. Aponte a
-contradição concreta (o que foi dito x o que consta), não impressão subjetiva sobre a pessoa. O que
-convence o juízo é a inconsistência demonstrável, não o "pareceu nervoso".
+Explicar demais não prova mentira, ocultação ou falta de credibilidade. Tom, pausas, hesitação, nervosismo, emoção, contato visual e quantidade de justificativas não permitem identificar quem mente. Não atribua diagnósticos, scores, percentuais de veracidade ou conclusões sobre culpa a partir desses comportamentos.
+
+Formule perguntas de esclarecimento vinculadas à lacuna ou ao trecho, uma questão por vez, sem presumir falsidade nem sugerir resposta: “A qual momento se refere?” ou “Como essa informação se relaciona com sua resposta anterior?”. Adapte a formulação ao rito e à orientação profissional, sem criar regra processual geral.
+
+Diferencie ausência de memória, omissão em termo resumido, imprecisão, erro de transcrição, divergência aparente e incompatibilidade material. Confronte conteúdo e contexto com provas de origem identificada; repetição do mesmo relato não é confirmação independente. Descreva a inconsistência demonstrável e seus limites, sem transformar impressão sobre a pessoa em prova.
+
+Para análise comparada e cruzamento probatório, use [depoimentos e transcrições](../../lassen-depoimentos-transcricoes/SKILL.md).
