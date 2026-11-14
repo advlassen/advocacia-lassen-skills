@@ -74,3 +74,7 @@ Rotas:
 Antes da entrega, revalide pontos decisivos quando mudar o marco temporal, surgir fonte relevante ou houver intervalo capaz de afetar a conclusão. Indique o que foi e o que não foi reconsultado.
 
 A verificação é limitada à data, ao recorte e às fontes acessíveis. Não garante atualidade eterna, êxito, exaustividade nacional ou substituição do advogado. Não publique, protocole, envie, altere sistema ou crie automação sem autorização específica.
+
+## Aplicação à peça
+
+Ao revalidar peça ou parecer, use a [validação de fontes](../lassen-validacao-de-fontes/SKILL.md) para decidir se cada autoridade confirmada continua aplicável aos fatos, ao rito e ao pedido.
