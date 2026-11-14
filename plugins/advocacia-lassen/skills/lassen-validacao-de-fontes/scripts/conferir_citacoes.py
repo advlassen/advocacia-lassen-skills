@@ -72,6 +72,15 @@ def conferir(minuta, registro, hoje):
     return erros, "".join(partes)
 
 
+def registro_sem_duplicatas(pares):
+    registro = {}
+    for chave, valor in pares:
+        if chave in registro:
+            raise ValueError(f"Chave duplicada no registro: {chave}")
+        registro[chave] = valor
+    return registro
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("minuta", type=Path)
@@ -81,7 +90,10 @@ def main():
     args = parser.parse_args()
     try:
         minuta = args.minuta.read_text(encoding="utf-8-sig")
-        registro = json.loads(args.registro.read_text(encoding="utf-8-sig"))
+        registro = json.loads(
+            args.registro.read_text(encoding="utf-8-sig"),
+            object_pairs_hook=registro_sem_duplicatas,
+        )
         if not minuta.strip() or not isinstance(registro, dict):
             raise ValueError("Minuta vazia ou registro fora do formato.")
         erros, resultado = conferir(minuta, registro, args.data)

@@ -7,8 +7,8 @@
     {
       "name": "advocacia-lassen",
       "source": "./plugins/advocacia-lassen",
-      "description": "Fluxos jurÃ­dicos, pesquisa acadÃªmica, documentos, gestÃ£o e comunicaÃ§Ã£o institucional.",
-      "version": "1.5.1"
+      "description": "Fluxos jurÃƒÂ­dicos, pesquisa acadÃƒÂªmica, documentos, gestÃƒÂ£o e comunicaÃƒÂ§ÃƒÂ£o institucional.",
+      "version": "1.5.2"
     }
   ]
 }

@@ -31,7 +31,7 @@ class Conferencia(unittest.TestCase):
             raiz = Path(pasta)
             entrada, memoria, saida = [raiz / nome for nome in ("minuta.md", "fontes.json", "final.md")]
             entrada.write_text(minuta, encoding="utf-8")
-            memoria.write_text(json.dumps(registro), encoding="utf-8")
+            memoria.write_text(registro if isinstance(registro, str) else json.dumps(registro), encoding="utf-8")
             retorno = subprocess.run(
                 [sys.executable, str(SCRIPT), str(entrada), str(memoria), str(saida), "--data", DATA],
                 capture_output=True,
@@ -56,6 +56,11 @@ class Conferencia(unittest.TestCase):
                       {"consultada_em": "2026-11-15"}):
             with self.subTest(campos=campos):
                 self.executar(INICIO + BLOCO + FIM, {"CPC": FONTE | campos}, 1)
+
+    def test_registro_com_chave_duplicada(self):
+        fonte = json.dumps(FONTE)
+        registro = '{"CPC": {"status": "não verificada"}, "CPC": ' + fonte + '}'
+        self.executar(INICIO + BLOCO + FIM, registro, 2)
 
     def test_texto_alterado_depois_da_validacao(self):
         self.executar(INICIO + BLOCO.replace("321", "322") + FIM, {"CPC": FONTE}, 1)
