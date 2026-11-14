@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "advocacia-lassen",
+  "description": "Fluxos jurídicos, pesquisa acadêmica, documentos, gestão e comunicação institucional.",
+  "version": "1.6.0",
+  "author": {
+    "name": "Advocacia Lassen"
+  }
+}

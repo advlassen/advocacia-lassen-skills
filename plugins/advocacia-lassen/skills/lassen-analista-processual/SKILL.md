@@ -23,7 +23,7 @@ Em trabalho substancial, consulte o [fluxo jurídico auditável](../../reference
 
 ## Depoimentos e transcrições
 
-Quando a prova incluir depoimentos, termos ou transcrições, use [Depoimentos e transcrições](../lassen-depoimentos-transcricoes/SKILL.md) para a comparação de declarações. Incorpore à matriz processual apenas trechos rastreáveis e mantenha separados falhas de transcrição, divergências e lacunas de prova.
+Quando a prova incluir gravações, depoimentos, termos ou transcrições, use [Depoimentos e transcrições](../lassen-depoimentos-transcricoes/SKILL.md) para a comparação de declarações. Incorpore à matriz processual apenas trechos rastreáveis e mantenha separados falhas de transcrição, divergências e lacunas de prova.
 
 ## Referências por situação
 

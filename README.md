@@ -2,9 +2,9 @@
 
 # Skills da Advocacia Lassen
 
-Acervo público com 27 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.4.0, preparada para Claude Code, com as instruções e os três logotipos existentes.
+Acervo público com 27 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Pacote para Claude Code com manifesto portátil para Codex, baseado na exportação privada das skills.
 
-O pacote orienta o trabalho e não fornece acesso a tribunais, CRM, áudio, Word ou serviços externos. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
+O pacote orienta o trabalho e inclui um script de transcrição para mídias locais. Acesse tribunais, CRM, Word e serviços externos pelos recursos autorizados do ambiente. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
 
 ## Usar localmente sem instalar
 
@@ -45,6 +45,14 @@ claude plugin install advocacia-lassen@advocacia-lassen-skills
 
 As etapas de catálogo e instalação são descritas na [documentação oficial de marketplaces](https://code.claude.com/docs/en/plugin-marketplaces). A entrada usa uma origem relativa ao repositório conforme a [referência de marketplaces](https://code.claude.com/docs/en/plugins/marketplace-reference).
 
+## Transcrever uma audiência
+
+A skill `lassen-depoimentos-transcricoes` usa um fluxo local para gerar transcrição com timestamps e rótulos de falantes. Consulte o [guia de execução e conferência](plugins/advocacia-lassen/skills/lassen-depoimentos-transcricoes/references/transcricao-local.md).
+
+## Usar no Codex
+
+Em um cliente compatível com marketplaces locais, adicione a cópia do repositório com `codex plugin marketplace add .` e instale **Advocacia Lassen** pelo diretório de plugins do aplicativo. O pacote usa o manifesto portátil e o catálogo existente do Claude Code. Consulte a [documentação de empacotamento da OpenAI](https://developers.openai.com/plugins/build/plugins).
+
 ## Validar fontes para petição ou parecer
 
 Use [lassen-validacao-de-fontes](plugins/advocacia-lassen/skills/lassen-validacao-de-fontes/SKILL.md) para decidir quais fontes oficiais sustentam a proposição e se aplicam ao caso.
@@ -67,7 +75,7 @@ Para produzir documentos com fidelidade visual, disponibilize o modelo apropriad
 
 ## Conferência e limites
 
-A preparação conferiu JSON, frontmatter, nomes das 26 skills, referências internas, presença dos logotipos e remoção dos identificadores conhecidos. Não equivale a auditoria jurídica de todos os temas nem à execução das skills no Claude Code. Nenhum áudio foi processado e nenhum motor de transcrição foi instalado.
+A preparação conferiu JSON, frontmatter, nomes das 26 skills, referências internas, presença dos logotipos e remoção dos identificadores conhecidos. Não equivale a auditoria jurídica de todos os temas nem à execução das skills no Claude Code. O procedimento de transcrição local está no guia acima.
 
 Para conferir o pacote com seu Claude Code, sem instalar o plugin:
 

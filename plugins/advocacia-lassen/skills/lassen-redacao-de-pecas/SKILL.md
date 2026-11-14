@@ -17,7 +17,7 @@ Usar lassen-analista-processual quando a compreensão dos autos ainda estiver in
 
 ## Depoimentos e transcrições
 
-Antes de fundamentar uma peça em divergências de depoimentos, use [Depoimentos e transcrições](../lassen-depoimentos-transcricoes/SKILL.md). Cite somente trechos e localizadores confirmados, preserve ressalvas e retificações, e não converta divergência ou erro de transcrição em acusação de mentira.
+Antes de fundamentar uma peça em divergências de depoimentos, use [Depoimentos e transcrições](../lassen-depoimentos-transcricoes/SKILL.md). Para transcrição automática, confira teor, contexto e falante na gravação antes de citar. Indique evento ou arquivo e intervalo da mídia. Cite somente trechos e localizadores confirmados, preserve ressalvas e retificações, e não converta divergência ou erro de transcrição em acusação de mentira.
 
 ## Plano antes da redação
 
