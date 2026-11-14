@@ -2,7 +2,7 @@
 
 # Skills da Advocacia Lassen
 
-Acervo privado com 26 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Pacote para Claude Code com manifesto portátil para Codex, baseado na exportação privada das skills.
+Acervo público com 27 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Pacote para Claude Code com manifesto portátil para Codex, baseado na exportação privada das skills.
 
 O pacote orienta o trabalho e inclui um script de transcrição para mídias locais. Acesse tribunais, CRM, Word e serviços externos pelos recursos autorizados do ambiente. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
 
@@ -25,9 +25,9 @@ Na sessão, invoque por exemplo:
 
 O argumento aponta para o diretório do plugin. A raiz deste repositório é o marketplace. A organização e o prefixo dos comandos seguem a [documentação de criação de plugins](https://code.claude.com/docs/en/plugins/create).
 
-## Instalar pelo marketplace privado
+## Instalar pelo marketplace do GitHub
 
-A conta GitHub usada pelo Claude Code precisa ter acesso autorizado ao repositório. Não grave tokens neste projeto. A autenticação não é criada nem alterada pelo pacote.
+O catálogo é público. O Claude Code usa a autenticação configurada no ambiente. Mantenha credenciais e arquivos de casos fora do repositório.
 
 Execute no terminal, se desejar instalar:
 
@@ -53,11 +53,15 @@ A skill `lassen-depoimentos-transcricoes` usa um fluxo local para gerar transcri
 
 Em um cliente compatível com marketplaces locais, adicione a cópia do repositório com `codex plugin marketplace add .` e instale **Advocacia Lassen** pelo diretório de plugins do aplicativo. O pacote usa o manifesto portátil e o catálogo existente do Claude Code. Consulte a [documentação de empacotamento da OpenAI](https://developers.openai.com/plugins/build/plugins).
 
+## Validar fontes para petição ou parecer
+
+Use [lassen-validacao-de-fontes](plugins/advocacia-lassen/skills/lassen-validacao-de-fontes/SKILL.md) para decidir quais fontes oficiais sustentam a proposição e se aplicam ao caso.
+
 ## Organização
 
 - `.claude-plugin/marketplace.json`: catálogo com um plugin.
 - `plugins/advocacia-lassen/.claude-plugin/plugin.json`: identidade e versão do plugin.
-- `plugins/advocacia-lassen/skills/`: 26 diretórios com `SKILL.md` e referências próprias.
+- `plugins/advocacia-lassen/skills/`: 27 diretórios com `SKILL.md` e referências próprias.
 - `plugins/advocacia-lassen/references/`: regras comuns, fluxo auditável e guia de modelos locais.
 - `plugins/advocacia-lassen/assets/`: três logotipos sem redesenho.
 
@@ -71,7 +75,7 @@ Para produzir documentos com fidelidade visual, disponibilize o modelo apropriad
 
 ## Conferência e limites
 
-A preparação conferiu JSON, frontmatter, nomes das 26 skills, referências internas, presença dos logotipos e remoção dos identificadores conhecidos. Não equivale a auditoria jurídica de todos os temas nem à execução das skills no Claude Code. Nenhum áudio foi processado e nenhum motor de transcrição foi instalado.
+A preparação conferiu JSON, frontmatter, nomes das 26 skills, referências internas, presença dos logotipos e remoção dos identificadores conhecidos. Não equivale a auditoria jurídica de todos os temas nem à execução das skills no Claude Code. O procedimento de transcrição local está no guia acima.
 
 Para conferir o pacote com seu Claude Code, sem instalar o plugin:
 
@@ -84,7 +88,7 @@ Esses comandos são instruções para o usuário; não foram executados nesta pr
 
 ## Direitos e acesso
 
-O repositório é destinado ao uso privado e às pessoas autorizadas pelo proprietário. Não há concessão de licença open-source, autorização geral de redistribuição nem licença de uso da marca. Consulte [direitos e proveniência](NOTICE.md) e [origem da exportação](PROVENANCE.md). Adicionar colaboradores, tornar público ou escolher licença exige decisão específica do responsável.
+O GitHub disponibiliza o repositório para consulta pública. Não há concessão de licença open-source, autorização geral de redistribuição nem licença de uso da marca. Consulte [direitos e proveniência](NOTICE.md) e [origem da exportação](PROVENANCE.md). Adicionar colaboradores, tornar público ou escolher licença exige decisão específica do responsável.
 
 
 ## Atualização 1.3.1

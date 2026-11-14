@@ -46,3 +46,9 @@ Use o [checklist de fontes jurídicas brasileiras](../../references/checklist-fo
 ## Revalidação e atualização da pesquisa
 
 Para conferir atualidade de autoridades ou comparar uma pesquisa anterior, use [Atualização jurídica](../lassen-atualizacao-juridica/SKILL.md). O módulo aplica o checklist de fontes à tarefa e devolve mudanças, permanências, não confirmações e impactos; não monitora sozinho nem altera tese, pedido ou prazo automaticamente. Em trabalho acadêmico, aplique à parcela que afirmar direito ou jurisprudência brasileiros.
+
+## Auditoria das autoridades citadas
+
+Use a [validação de fontes](../lassen-validacao-de-fontes/SKILL.md) para verificar se a fonte oficial sustenta a proposição e se a autoridade se aplica ao caso.
+
+Para finalizar a peça, execute a [conferência técnica das citações](../lassen-validacao-de-fontes/references/conferencia-tecnica.md) na minuta integral. Corrija os bloqueios antes de entregar a versão final.
