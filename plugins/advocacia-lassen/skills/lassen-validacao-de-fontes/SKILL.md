@@ -18,3 +18,7 @@ Use o [checklist de fontes brasileiras](../../references/checklist-fontes-brasil
    - **Não verificada** quando falta fonte oficial, inteiro teor ou informação decisiva sobre a situação. Registre a lacuna e a diligência.
 
 Encaminhe à minuta somente citações aptas. Sem fonte confirmada para ponto essencial, indique a lacuna fora do texto pronto para protocolo. Nunca complete referência, número, trecho ou tese por memória, inferência ou sugestão de ferramenta. Se uma autoridade decisiva mudar ou a entrega ocorrer após intervalo relevante, consulte novamente a fonte oficial.
+
+## Conferência antes da versão final
+
+Para petição ou parecer final com legislação ou jurisprudência, aplique a [conferência técnica de citações](references/conferencia-tecnica.md) antes de exportar.

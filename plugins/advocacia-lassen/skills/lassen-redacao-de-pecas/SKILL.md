@@ -77,3 +77,5 @@ Para conferir atualidade de autoridades ou comparar uma pesquisa anterior, use [
 ## Verificação das citações
 
 Aplique a [validação de fontes](../lassen-validacao-de-fontes/SKILL.md) antes de incorporar legislação ou jurisprudência ao texto pronto para protocolo.
+
+Para finalizar a peça, execute a [conferência técnica das citações](../lassen-validacao-de-fontes/references/conferencia-tecnica.md) na minuta integral. Corrija os bloqueios antes de entregar a versão final.

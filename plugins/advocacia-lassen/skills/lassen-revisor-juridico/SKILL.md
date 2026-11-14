@@ -50,3 +50,5 @@ Para conferir atualidade de autoridades ou comparar uma pesquisa anterior, use [
 ## Auditoria das autoridades citadas
 
 Use a [validação de fontes](../lassen-validacao-de-fontes/SKILL.md) para verificar se a fonte oficial sustenta a proposição e se a autoridade se aplica ao caso.
+
+Para finalizar a peça, execute a [conferência técnica das citações](../lassen-validacao-de-fontes/references/conferencia-tecnica.md) na minuta integral. Corrija os bloqueios antes de entregar a versão final.
