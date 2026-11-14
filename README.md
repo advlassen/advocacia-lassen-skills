@@ -2,9 +2,9 @@
 
 # Skills da Advocacia Lassen
 
-Acervo privado com 26 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.4.0, preparada para Claude Code, com as instruções e os três logotipos existentes.
+Acervo privado com 26 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Pacote para Claude Code com manifesto portátil para Codex, baseado na exportação privada das skills.
 
-O pacote orienta o trabalho e não fornece acesso a tribunais, CRM, áudio, Word ou serviços externos. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
+O pacote orienta o trabalho e inclui um script de transcrição para mídias locais. Acesse tribunais, CRM, Word e serviços externos pelos recursos autorizados do ambiente. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
 
 ## Usar localmente sem instalar
 
@@ -44,6 +44,14 @@ claude plugin install advocacia-lassen@advocacia-lassen-skills
 ```
 
 As etapas de catálogo e instalação são descritas na [documentação oficial de marketplaces](https://code.claude.com/docs/en/plugin-marketplaces). A entrada usa uma origem relativa ao repositório conforme a [referência de marketplaces](https://code.claude.com/docs/en/plugins/marketplace-reference).
+
+## Transcrever uma audiência
+
+A skill `lassen-depoimentos-transcricoes` usa um fluxo local para gerar transcrição com timestamps e rótulos de falantes. Consulte o [guia de execução e conferência](plugins/advocacia-lassen/skills/lassen-depoimentos-transcricoes/references/transcricao-local.md).
+
+## Usar no Codex
+
+Em um cliente compatível com marketplaces locais, adicione a cópia do repositório com `codex plugin marketplace add .` e instale **Advocacia Lassen** pelo diretório de plugins do aplicativo. O pacote usa o manifesto portátil e o catálogo existente do Claude Code. Consulte a [documentação de empacotamento da OpenAI](https://developers.openai.com/plugins/build/plugins).
 
 ## Organização
 

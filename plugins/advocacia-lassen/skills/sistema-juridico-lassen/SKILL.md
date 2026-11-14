@@ -28,7 +28,7 @@ Em trabalho substancial, consulte o [fluxo jurídico auditável](../../reference
 
 ## Depoimentos e transcrições
 
-Para comparação de depoimentos, termos ou transcrições, use [Depoimentos e transcrições](../lassen-depoimentos-transcricoes/SKILL.md). Esse módulo prepara a matriz verificável de declarações; análise processual, mérito e redação continuam nos fluxos próprios.
+Para transcrever áudio ou vídeo local e comparar depoimentos, termos ou transcrições, use [Depoimentos e transcrições](../lassen-depoimentos-transcricoes/SKILL.md). Esse módulo prepara a matriz verificável de declarações; análise processual, mérito e redação continuam nos fluxos próprios.
 
 ## Referências por situação
 
