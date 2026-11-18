@@ -1,6 +1,6 @@
 # Modelos locais e recursos não distribuídos
 
-Esta exportação distribui as 25 skills, suas referências de método e três logotipos existentes da Advocacia Lassen. Não inclui DOCX, HTML, fontes tipográficas nem configurações de conta do plugin privado.
+Esta exportação distribui as 25 skills, suas referências de método e os logotipos existentes (incluindo a versão preta transparente para petições) da Advocacia Lassen. Não inclui DOCX, HTML, fontes tipográficas nem configurações de conta do plugin privado.
 
 Os sete DOCX foram omitidos porque contêm dados profissionais, contatos ou metadados pessoais; o exemplar de petição inclui narrativa demonstrativa. Os cinco HTML foram omitidos por incluírem scripts, imagens embutidas e dependências de fontes externas com proveniência/licenciamento ainda não documentados para redistribuição. Nenhuma fonte privada foi apagada ou alterada.
 
