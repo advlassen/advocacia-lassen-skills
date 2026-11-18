@@ -18,8 +18,14 @@ amadora. Menos é mais; sobriedade é o padrão.
   - Tag preta (rótulos tipo "AUTOS Nº", "PROCESSO", "DESTINATÁRIO"): fundo `#1C1C1C`, texto branco.
   - Barra creme ao lado da tag: `#F5F2EC`.
   - Cinza do rodapé: `#5F5F5F`.
-- Cabeçalho: logo AL centralizada (monograma + "ADVOCACIA LASSEN"). Asset em alta:
-  `../../../assets/047d3a24f1-logo-lassen-completa.png`.
+- Cabeçalho: logo AL centralizada (monograma + "ADVOCACIA LASSEN"). Asset oficial para petições e
+  documentos impressos: `../../../assets/logo-lassen-completa-preta-transparente.png` (PNG com fundo
+  transparente, traço em preto puro `#000000`, já recortado). Use sempre esse arquivo: ele não gera
+  caixa branca atrás da logo na impressão nem sobre fundos coloridos.
+  - Não aplicar transparência, brilho, "lavar" a imagem, recolorir para cinza ou `#2D2D2D`, nem
+    sombra/efeito no Word. A logo deve sair em preto forte e com contraste máximo.
+  - O arquivo antigo `047d3a24f1-logo-lassen-completa.png` (fundo branco sólido, preto mais fraco)
+    fica só como histórico; não usar em peças novas.
 - Títulos: centralizados, em caixa alta, negrito (ex.: "INSTRUMENTO DE PROCURAÇÃO", "CONTRATO DE
   HONORÁRIOS ADVOCATÍCIOS", "COMUNICADO AO CLIENTE"). Rótulos de campo em dourado, negrito.
 - Rodapé: linha de contato em negrito e duas linhas de endereço em cinza, com número de página.
