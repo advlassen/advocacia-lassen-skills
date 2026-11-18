@@ -24,8 +24,8 @@ amadora. Menos é mais; sobriedade é o padrão.
   caixa branca atrás da logo na impressão nem sobre fundos coloridos.
   - Não aplicar transparência, brilho, "lavar" a imagem, recolorir para cinza ou `#2D2D2D`, nem
     sombra/efeito no Word. A logo deve sair em preto forte e com contraste máximo.
-  - O arquivo antigo `047d3a24f1-logo-lassen-completa.png` (fundo branco sólido, preto mais fraco)
-    fica só como histórico; não usar em peças novas.
+  - O arquivo `047d3a24f1-logo-lassen-completa.png` foi substituído pela mesma versão preta
+    transparente, para que referências antigas também usem a logo nova.
 - Títulos: centralizados, em caixa alta, negrito (ex.: "INSTRUMENTO DE PROCURAÇÃO", "CONTRATO DE
   HONORÁRIOS ADVOCATÍCIOS", "COMUNICADO AO CLIENTE"). Rótulos de campo em dourado, negrito.
 - Rodapé: linha de contato em negrito e duas linhas de endereço em cinza, com número de página.
