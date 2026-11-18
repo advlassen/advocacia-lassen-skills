@@ -1,8 +1,8 @@
-<p align="center"><img src="plugins/advocacia-lassen/assets/047d3a24f1-logo-lassen-completa.png" alt="Advocacia Lassen" width="360"></p>
+<p align="center"><img src="plugins/advocacia-lassen/assets/logo-lassen-completa-preta-transparente.png" alt="Advocacia Lassen" width="360"></p>
 
 # Skills da Advocacia Lassen
 
-Acervo público com 27 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.4.0, preparada para Claude Code, com as instruções e os três logotipos existentes.
+Acervo público com 27 skills para trabalho jurídico, pesquisa acadêmica, documentos, gestão e comunicação. Exportação da versão 1.4.0, preparada para Claude Code, com as instruções e os logotipos do escritório.
 
 O pacote orienta o trabalho e não fornece acesso a tribunais, CRM, áudio, Word ou serviços externos. Os recursos efetivos dependem do ambiente. Nenhuma skill assina, protocola, compartilha ou contata terceiros por conta própria.
 
@@ -55,7 +55,7 @@ Use [lassen-validacao-de-fontes](plugins/advocacia-lassen/skills/lassen-validaca
 - `plugins/advocacia-lassen/.claude-plugin/plugin.json`: identidade e versão do plugin.
 - `plugins/advocacia-lassen/skills/`: 27 diretórios com `SKILL.md` e referências próprias.
 - `plugins/advocacia-lassen/references/`: regras comuns, fluxo auditável e guia de modelos locais.
-- `plugins/advocacia-lassen/assets/`: três logotipos sem redesenho.
+- `plugins/advocacia-lassen/assets/`: logotipos; a logo completa oficial é `logo-lassen-completa-preta-transparente.png` (preto puro, fundo transparente).
 
 As skills usam nome e descrição no frontmatter e mantêm os arquivos de apoio dentro do plugin. Consulte a [documentação oficial de skills](https://code.claude.com/docs/en/skills).
 
